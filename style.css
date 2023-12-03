@@ -33,10 +33,16 @@ padding-right:10px;
 }
 
 
-.icons svg {
-fill: #3a6cf4;
-
+.icons .f {
+fill: blue;
 }
+.icons .z{
+    fill: purble;
+}
+.icons .y {
+    fill: red;
+}
+
 
 
 .navigation svg:hover{
