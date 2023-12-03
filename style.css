@@ -26,9 +26,10 @@ padding-right: 100px;
 .navigation a{
     text-decoration: none;
     color: #3a6cf4;
-    font-size: 1.3em;
+    font-size: 1.7em;
     font-weight: 500;
-padding-left: 30px;
+padding-right:30px;
+
 
 }
 .navigation a:hover{
@@ -260,4 +261,3 @@ font-weight: 700;
     text-align: center;
     margin-bottom: 60px;
 }
-
