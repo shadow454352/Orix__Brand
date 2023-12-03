@@ -39,8 +39,8 @@ fill: #3a6cf4;
 }
 
 
-.navigation a:hover{
-color:#601cfc;
+.navigation svg:hover{
+fill:#601cfc;
 
 }
 section{
