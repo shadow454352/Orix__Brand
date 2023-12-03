@@ -13,7 +13,8 @@ z-index: 999;
 display: flex;
 justify-content: space-between;
 align-items: center;
-padding: 10px 120px;
+padding: 10px 30px;
+padding-right: 100px;
 }
 .logo{
     text-decoration: none;
@@ -36,7 +37,6 @@ color:#601cfc;
 }
 section{
 padding: 100px 200px;
-
 }
 
 .main{
@@ -46,17 +46,14 @@ padding: 100px 200px;
   align-items: center;
  
  
-  background:url(images/5.png);
+  background:url(images/8.png);
  
  
   background-size: cover;
 background-position: center;
 background-attachment: fixed;
-    Padding: 100px 10px;
+padding: 100px 10px;
 }
-
-
-
 
 .main h2{
     color:white;
@@ -129,6 +126,7 @@ margin-bottom: 30px;
     }
 
 .youtube{
+margin-top: 40px;
 padding-top: 20px;
 
 }
@@ -236,7 +234,6 @@ font-weight: 700;
 
 .contact-us{
     text-align: center;
-    margin-bottom: 65px;
+    margin-bottom: 60px;
 }
-
 
