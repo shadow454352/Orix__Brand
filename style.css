@@ -38,7 +38,7 @@ padding-left:9px;
 fill: blue;
 }
 .icons .z{
-    fill: purble;
+    fill: black;
 }
 .icons .y {
     fill: red;
@@ -194,7 +194,7 @@ text-align: center;
 color: #3a6cf4;
 font-size: 1.2em;
 font-weight: 700;
-margin:10px;
+margin: 10px;
 }
 
 .projects{
