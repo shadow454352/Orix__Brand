@@ -298,6 +298,19 @@ padding: 80px 20px;
     align-items: center;
 }
 
+}
+
+@media (max-width:641px){
+ body{
+    font-size: 12px;
+ }
 
 
+}
+
+
+@media (max-width:300px){
+    body{
+       font-size: 10px;
+    }
 }
